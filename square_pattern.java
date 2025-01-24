@@ -1,4 +1,4 @@
-public class square_pattern{
+public class all_pattern{
     public static void squarePattern(int n){
         //   ****
         //   ****
